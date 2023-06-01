@@ -1,0 +1,29 @@
+body {
+  background-color: aliceblue;
+  font-family: ABeeZee;
+}
+.header {
+  padding: 24px;
+  text-align: center;
+}
+.header button {
+  background-color: blanchedalmond;
+  border: none;
+  border-radius: 67px;
+  color: black;
+  cursor: pointer;
+  font-family: ABeeZee;
+  font-size: large;
+  font-weight: bold;
+  margin: 12px;
+  padding: 16px;
+  text-align: center;
+  width: 50%;
+}
+.users .user-card {
+  background-color: blanchedalmond;
+  border-radius: 32px;
+  margin: 12px;
+  padding: 16px;
+  text-align: center;
+}
